@@ -1,0 +1,13 @@
+Database:
+  Type: sqlserver
+  DBName: User
+  Server: AIL-OP-HK3S4Y2
+  Username: sa
+  Password: Passw0rd
+  Port: 1433
+
+Environment: localhost
+MSName: ms-user-portal
+LogLevel: debug
+JWTSecretKey: TeST@12$&#*!({})
+Domain: localhost
